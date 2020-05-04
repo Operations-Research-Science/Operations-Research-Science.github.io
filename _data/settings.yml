@@ -1,24 +1,24 @@
 basic_settings:
-  site_title: Personal
+  site_title: ORAI China
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'News'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Ebooks'
+      url: '/ebooks/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: A Community for Researchers in OR&AI
 
 hero_settings:
   overlay_opacity: 0.8
@@ -27,7 +27,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/xeqrqzed'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
@@ -59,6 +59,9 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
+  知乎_url: 'https://www.zhihu.com/org/yun-chou-orwei-wo'
+  bilibili_url: 'https://space.bilibili.com/403058474'
+  知识星球_url: 'https://wx.zsxq.com/dweb2/index/group/822115185582'
 
 color_settings:
   background_color: '#ffffff'
