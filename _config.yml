@@ -1,7 +1,7 @@
-site: Personal Jekyll Theme
+site: ORAI China
 
-url: 
-baseurl: 
+url: https://operations-research-science.github.io/
+baseurl:
 
 collections:
   pages:
@@ -44,7 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
