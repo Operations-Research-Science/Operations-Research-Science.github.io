@@ -6,4 +6,4 @@ description: ORAI China WeChat Official Account
 
  Please scan the QR code below to follow us.
 
- <p align="center"><img width="20%" src="images/QR_code.jpg" /></p>
+ <p align="center"><img width="30%" src="images/QR_code.jpg" /></p>
