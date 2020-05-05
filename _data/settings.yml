@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
-  logo_width: 200
+  logo_image: /images/favicon.png
+  logo_width: 75
 
 menu_settings:
   menu_items:
@@ -59,9 +59,9 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
-  知乎_url: 'https://www.zhihu.com/org/yun-chou-orwei-wo'
-  bilibili_url: 'https://space.bilibili.com/403058474'
-  知识星球_url: 'https://wx.zsxq.com/dweb2/index/group/822115185582'
+  weixin_url: '/wechat'
+  zhihu_url: 'https://www.zhihu.com/org/yun-chou-orwei-wo'
+
 
 color_settings:
   background_color: '#ffffff'
