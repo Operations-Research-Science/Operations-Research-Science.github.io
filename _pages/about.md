@@ -2,7 +2,7 @@
 title: About ORAI China
 subtitle: A Community for Researchers in Operations Research and Artificial Intelligence
 description: About us
-featured_image: /images/demo/about.jpg
+featured_image: /images/frame/about.jpg
 ---
 
 ## About us
