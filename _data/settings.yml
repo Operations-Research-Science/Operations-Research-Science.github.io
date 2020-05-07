@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/favicon.png
-  logo_width: 75
+  logo_image: /images/logo.png
+  logo_width: 150
 
 menu_settings:
   menu_items:
