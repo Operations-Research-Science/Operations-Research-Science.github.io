@@ -1,6 +1,4 @@
-# Personal by JekyllThemes.io – Instructions
-
-If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers.
+Instructions
 
 ---
 
@@ -162,5 +160,3 @@ Take a look at the demo content inside each folder for full descriptions on what
 ## Any questions?
 
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers!
-
-🤘
