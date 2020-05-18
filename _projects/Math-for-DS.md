@@ -7,7 +7,7 @@ featured_image: '/images/news/MathDS/cover.jpg'
 ---
 
 ## Orignal offical website:
-[https://sites.google.com/view/seminarmathdatascience/home]
+Click [here](https://sites.google.com/view/seminarmathdatascience/home)
 
 ## Mailing List and Calendar
 
