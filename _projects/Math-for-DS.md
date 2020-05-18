@@ -6,7 +6,7 @@ description: A weekly online seminar on random topics on mathematical foundation
 featured_image: '/images/news/MathDS/cover.jpg'
 ---
 
-## Original offical website:
+## Original official website:
 Click [here](https://sites.google.com/view/seminarmathdatascience/home)
 
 ## Mailing List and Calendar
