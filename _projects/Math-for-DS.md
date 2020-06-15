@@ -21,19 +21,23 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/robert.png" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/sham.jpg" /></p>
 
-##### **Next Speaker:** [**Robert M. Freund**](https://mitmgmtfaculty.mit.edu/rfreund/), Massachusetts Institute of Technology
-##### **Date/Time:** Tuesday, June 9th 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/386962575571261)
-##### **Title:** From Stochastic Frank-Wolfe to the Ellipsoid Method: Recent Progress on Practical Optimization in Data Science (the Frank-Wolfe Method) and Theoretical Optimization (the Ellipsoid Method)
+##### **Next Speaker:** [**Sham Kakade**](https://homes.cs.washington.edu/~sham/),
+##### **Date/Time:** Tuesday, June 16th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/386962575571261)
+##### **Title:** Representation, Modeling, and Gradient Based Optimization in Reinforcement Learning
 
-**Abstract:** his talk will report on two ongoing research projects – one on the stochastic Frank-Wolfe method, and the other on the Ellipsoid Algorithm.  The first part of the talk will report on recent progress on a stochastic version of the Frank-Wolfe method (“StochFW”) for constrained finite-sum minimization problems in generalized linear models, which arise in empirical loss minimization problems in particular and are ubiquitous in machine learning applications.  Here the Frank-Wolfe method is very attractive in particular because the algorithm itself encourages desirable solution structure (such as sparsity or low-rank) without sacrificing computational guarantees.  We present STOCHFW, which is a novel stochastic version of the Frank-Wolfe method, that is designed for the regime where the sample size n is huge and computing an exact gradient is too expensive.  The STOCHFW method matches or improves on the best computational guarantees for this class of algorithms depending on the regime; and furthermore we present computational results that point to improved performance in practice as well.
+**Abstract:** Reinforcement learning is now the dominant paradigm for how an agent learns to interact with the world. The approach has lead to successes ranging across numerous domains, including game playing and robotics, and it holds much promise in new domains, from self driving cars to interactive medical applications. Some of the central challenges are:
 
-The second part of the talk concerns the ellipsoid algorithm, which is a fundamental algorithm for computing a solution to system of linear inequalities P: Ax <= u when the set of solutions S := { x : Ax <= u } has positive volume.  However, when P is infeasible the ellipsoid algorithm has no built-in mechanism for proving that P is infeasible. (This is in contrast to the other two fundamental algorithms for tackling P, namely the simplex method and interior point methods, each of which can be easily implemented in a way that either produces a solution of P or proves that P is infeasible by producing a solution to the alternative system ALT: A*w = 0, u*w < 0, w >= 0.)  Motivated thusly, we develop an Oblivious Ellipsoid Algorithm (OEA) that produces a solution of P when P is feasible and proves infeasibility otherwise, with similar complexity to the standard ellipsoid algorithm in certain regimes.
+- Representational learning: does having a good representation of the environment permit efficient reinforcement learning?
+- Modeling: should we explicitly build a model of our environment or, alternatively, should we directly learn how to act?
+- Optimization: in practice, deployed algorithms often use local search heuristics. Can we provably understand  when these approaches are effective and provide faster and more robust alternatives?
 
-Joint work with Geoffrey Négiar, Gideon Dresdner, Alicia Yi-Ting Tsai, Laurent El Ghaoui, Francesco Locatello, Fabian Pedregosa, Jourdain Lamperski, and Michael Todd.
+This talk will survey a number of results on these basic questions. Throughout, we will  highlight the interplay of theory, algorithm design, and practice.
 
-**Bio:** Robert Freund is the Theresa Seley Professor in Management Science at the Sloan School of Management at MIT.  His research interests are in convex optimization, computational complexity and related computational science, convex geometry, large-scale nonlinear optimization in business analytics and machine learning, and related mathematical systems. He received his B.A. in Mathematics from Princeton University and M.S. and Ph.D. degrees in Operations Research at Stanford University.  He is the former Co-Director of MIT Operations Research Center, the MIT Program in Computation for Design and Optimization, and the former Chair of the INFORMS Optimization Section.  He also served a term as Deputy Dean of the Sloan School at MIT (2008-11).  He is an INFORMS Fellow and a recipient of the MIT Samuel M. Seegal Prize (2020). He received the Longuet-Higgins Prize in computer vision (2007) as well as numerous teaching and education awards at MIT in conjunction with the course and textbook (co-authored with Dimitris Bertsimas) Data, Models, and Decisions: the Fundamentals of Management Science.
+**Bio:** Sham Kakade is a Washington Research Foundation Data Science Chair, with a joint appointment in the Department of Computer Science and the Department of Statistics at the University of Washington, and is a co-director for the Algorithmic Foundations of Data Science Institute. He works on the mathematical foundations of machine learning and AI. Sham's thesis helped in laying the foundations of the PAC-MDP framework for reinforcement learning. With his collaborators, his additional contributions include: one of the first provably efficient policy search methods, Conservative Policy Iteration, for reinforcement learning; developing the mathematical foundations for the widely used linear bandit models and the Gaussian process bandit models; the tensor and spectral methodologies for provable estimation of latent variable models (applicable to mixture of Gaussians, HMMs, and LDA); the first sharp analysis of the perturbed gradient descent algorithm, along with the design and analysis of numerous other convex and non-convex algorithms. He is the recipient of the IBM Goldberg best paper award (in 2007) for contributions to fast nearest neighbor search and the best paper, INFORMS Revenue Management and Pricing Section Prize (2014). He has been program chair for COLT 2011.
+
+Sham was an undergraduate at Caltech, where he studied physics and worked under the guidance of John Preskill in quantum computing. He then completed his Ph.D. in computational neuroscience at the Gatsby Unit at University College London, under the supervision of Peter Dayan. He was a postdoc at the Dept. of Computer Science, University of Pennsylvania , where he broadened his studies to include computational game theory and economics from the guidance of Michael Kearns. Sham has been a Principal Research Scientist at Microsoft Research, New England, an associate professor at the Department of Statistics, Wharton, UPenn, and an assistant professor at the Toyota Technological Institute at Chicago.
 
 ## Upcoming Speakers
 
@@ -60,5 +64,7 @@ If you have any questions, please feel free to email the organizers.
 [![Alt text](/images/news/MathDS/UIUC.png) University of Illinois at Urbana-Champaign](https://illinois.edu/)
 
 [![Alt text](/images/news/MathDS/NISS.png) National Institute of Statistical Sciences](https://www.niss.org/)
+
+[![Alt text](/images/news/MathDS/2sigma.png) Two Sigma](https://www.twosigma.com/)
 
 [![Alt text](/images/news/MathDS/ORAI.png) ORAI China](/)
