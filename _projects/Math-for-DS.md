@@ -21,23 +21,16 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/sham.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/nowak.png" /></p>
 
-##### **Next Speaker:** [**Sham Kakade**](https://homes.cs.washington.edu/~sham/),
-##### **Date/Time:** Tuesday, June 16th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/386962575571261)
-##### **Title:** Representation, Modeling, and Gradient Based Optimization in Reinforcement Learning
+##### **Next Speaker:** [**Robert Nowak**](https://nowak.ece.wisc.edu/), University of Wisconsin, Madison
+##### **Date/Time:** Tuesday, June 23rd, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/542617073284204)
+##### **Title:** Nonparametric Active Learning with Kernels and Neural Networks
 
-**Abstract:** Reinforcement learning is now the dominant paradigm for how an agent learns to interact with the world. The approach has lead to successes ranging across numerous domains, including game playing and robotics, and it holds much promise in new domains, from self driving cars to interactive medical applications. Some of the central challenges are:
+**Abstract:** The field of Machine Learning (ML) has advanced considerably in recent years, but mostly in well-defined domains using huge amounts of human-labeled training data. Machines can recognize objects in images and translate text, but they must be trained with more images and text than a person can see in nearly a lifetime.  The computational complexity of training has been offset by recent technological advances, but the cost of training data is measured in terms of the human effort in labeling data. People are not getting faster nor cheaper, so generating labeled training datasets has become a major bottleneck in ML pipelines.
+Active ML aims to address this issue by designing learning algorithms that automatically and adaptively select the most informative examples for labeling so that human time is not wasted labeling irrelevant, redundant, or trivial examples. This talk explores the development of active ML theory and methods over the past decade, including a new approach applicable to kernel methods and neural networks, which views the learning problem through the lens of representer theorems. This perspective highlights the effect that adding a given training example has on the representation.   The new approach is shown to possess a variety of desirable mathematical properties that allow active learning algorithms to learn good classifiers from few labeled examples.
 
-- Representational learning: does having a good representation of the environment permit efficient reinforcement learning?
-- Modeling: should we explicitly build a model of our environment or, alternatively, should we directly learn how to act?
-- Optimization: in practice, deployed algorithms often use local search heuristics. Can we provably understand  when these approaches are effective and provide faster and more robust alternatives?
-
-This talk will survey a number of results on these basic questions. Throughout, we will  highlight the interplay of theory, algorithm design, and practice.
-
-**Bio:** Sham Kakade is a Washington Research Foundation Data Science Chair, with a joint appointment in the Department of Computer Science and the Department of Statistics at the University of Washington, and is a co-director for the Algorithmic Foundations of Data Science Institute. He works on the mathematical foundations of machine learning and AI. Sham's thesis helped in laying the foundations of the PAC-MDP framework for reinforcement learning. With his collaborators, his additional contributions include: one of the first provably efficient policy search methods, Conservative Policy Iteration, for reinforcement learning; developing the mathematical foundations for the widely used linear bandit models and the Gaussian process bandit models; the tensor and spectral methodologies for provable estimation of latent variable models (applicable to mixture of Gaussians, HMMs, and LDA); the first sharp analysis of the perturbed gradient descent algorithm, along with the design and analysis of numerous other convex and non-convex algorithms. He is the recipient of the IBM Goldberg best paper award (in 2007) for contributions to fast nearest neighbor search and the best paper, INFORMS Revenue Management and Pricing Section Prize (2014). He has been program chair for COLT 2011.
-
-Sham was an undergraduate at Caltech, where he studied physics and worked under the guidance of John Preskill in quantum computing. He then completed his Ph.D. in computational neuroscience at the Gatsby Unit at University College London, under the supervision of Peter Dayan. He was a postdoc at the Dept. of Computer Science, University of Pennsylvania , where he broadened his studies to include computational game theory and economics from the guidance of Michael Kearns. Sham has been a Principal Research Scientist at Microsoft Research, New England, an associate professor at the Department of Statistics, Wharton, UPenn, and an assistant professor at the Toyota Technological Institute at Chicago.
+**Bio:** Robert Nowak is the McFarland-Bascom Professor in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics. He is a professor in Electrical and Computer Engineering, as well as being affiliated with the departments of Computer Sciences, Statistics, and Biomedical Engineering. He is a Fellow of the IEEE and the Wisconsin Institute for Discovery, a member of the Wisconsin Optimization Research Consortium, and Machine Learning@Wisconsin, and is an organizer of the SILO seminar series. He is also an Adjoint Professor at the Toyota Technological Institute at Chicago.
 
 ## Upcoming Speakers
 
