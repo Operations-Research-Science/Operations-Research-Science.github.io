@@ -21,19 +21,15 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/shapiro.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/lewis.jpg" /></p>
 
-##### **Next Speaker:** [**Alex Shapiro**](https://www2.isye.gatech.edu/people/faculty/Alex_Shapiro/),Georgia Institute of Technology
-##### **Date/Time:** Thursday, July 2nd, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/283154839598712)
-##### **Title:** Recent Advances in Stochastic Programming
+##### **Next Speaker:** [**Adrian Lewis**](https://people.orie.cornell.edu/aslewis/), Cornell University
+##### **Date/Time:** Tuesday, July 7th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/273733917230280)
+##### **Title:** Smoothness in Nonsmooth Optimization
 
-**Abstract:** Traditionally stochastic  optimization was discussed in the realms of Markov Decision Processes (MDP), Stochastic Optimal Control (SOC) and Stochastic Programming (SP). Although MDP, SOC and SP are supposed to deal with somewhat related classes of problems, the modeling and numerical approaches are quite different. The origins of SP can be traced back to the early days of linear programming and have dealt with two stage linear stochastic programs. Until recently, modeling and numerical approaches to SP were dominated by the generation of  (finite) scenario trees and consequently solving  the constructed deterministic optimization problems.  In the linear case this leads to large scale linear programming. However,  it was shown that from such a deterministic point of view  even two stage linear stochastic programming problems are computationally intractable. Recent developments of theory and numerical algorithms  based on Monte Carlo  randomization techniques,  suggest quite a different view of SP. It was demonstrated   that  certain classes of stochastic programs, unattainable by the deterministic equivalent approach,  can be solved with reasonable accuracy often sufficient for engineering applications. This talk is aimed at giving a general overview of the current state of SP. Especially, multistage SP will be discussed.
+**Abstract:** Fast black-box nonsmooth optimization, while theoretically out of reach in the worst case, has long been an intriguing goal in practice.  Generic concrete nonsmooth objectives are "partly" smooth:  their subdifferentials have locally smooth graphs with powerful constant-rank properties, often associated with hidden structure in the objective.  One typical example is the proximal mapping for the matrix numerical radius, whose output is surprisingly often a "disk" matrix.  Motivated by this expectation of partial smoothness, this talk describes a Newtonian black-box algorithm for general nonsmooth optimization.  Local convergence is provably superlinear on a representative class of objectives, and early numerical experience is promising more generally.
 
-**Bio:** Alexander Shapiro is  Russell Chandler III Chair and Professor in the School of Industrial and Systems Engineering at Georgia Institute of Technology, Atlanta, USA. He has published more than 140 research articles in peer review journals  and is a coauthor of several books. He was   on the editorial board of several professional journals.  He was an area editor (Optimization) of Operations Research, and  the  Editor-in-Chief of the Mathematical Programming, Series A,  2012-2017, flagship journal of the Mathematical Optimization Society.
-
-He gave numerous  invited  keynote and plenary talks, including  invited section talk (section Control Theory & Optimization) at the  International Congress of Mathematicians 2010, Hyderabad, India.
-
-In 2013 he was a recipient of  Khachiyan prize awarded by the INFORMS Optimization Society, and in 2018 he was a recipient of the Dantzig Prize awarded by the Mathematical Optimization Society and Society for Industrial and Applied Mathematics. In 2020 he was elected to the  National Academy of Engineering.
+**Bio:** Adrian Lewis received his B.A., M.A., and Ph.D. degrees from Cambridge University, U.K. After faculty positions at the University of Waterloo and Simon Fraser University in Canada, he joined Cornell University in 2004 as a Professor in the School of Operations Research and Information Engineering, where he completed a three-year term as Director in 2013. His research concerns nonsmooth optimization and variational analysis. He has authored nearly 100 refereed publications and a book, and he is Co-Editor of Mathematical Programming. He received the 1995 Aisenstadt Prize, the 2003 Lagrange Prize, and a 2005 Outstanding Paper Prize from SIAM, and he is a SIAM Fellow. He was an invited section speaker at the 2014 International Congress of Mathematicians in Seoul.
 
 ## Upcoming Speakers
 
