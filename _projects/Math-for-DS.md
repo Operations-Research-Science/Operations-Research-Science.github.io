@@ -21,15 +21,19 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/lewis.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/jordan.jpg" /></p>
 
-##### **Next Speaker:** [**Adrian Lewis**](https://people.orie.cornell.edu/aslewis/), Cornell University
-##### **Date/Time:** Tuesday, July 7th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/273733917230280)
-##### **Title:** Smoothness in Nonsmooth Optimization
+##### **Next Speaker:** [**Michael I. Jordan**](https://people.eecs.berkeley.edu/~jordan/), UC Berkeley
+##### **Date/Time:** Tuesday, July 14th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/2675580202724956)
+##### **Title:** Optimization with Momentum: Dynamical, Variational, and Symplectic Perspectives
 
-**Abstract:** Fast black-box nonsmooth optimization, while theoretically out of reach in the worst case, has long been an intriguing goal in practice.  Generic concrete nonsmooth objectives are "partly" smooth:  their subdifferentials have locally smooth graphs with powerful constant-rank properties, often associated with hidden structure in the objective.  One typical example is the proximal mapping for the matrix numerical radius, whose output is surprisingly often a "disk" matrix.  Motivated by this expectation of partial smoothness, this talk describes a Newtonian black-box algorithm for general nonsmooth optimization.  Local convergence is provably superlinear on a representative class of objectives, and early numerical experience is promising more generally.
+**Abstract:** We analyze momentum-based optimization algorithms from dynamical systems and Hamiltonian points of view.  We show that a continuous-time perspective provides insight into the role of geometry in determining the convergence rates of optimization algorithms.  We discuss a generalization of symplectic integration to dissipative Hamiltonian systems that allows us to translate continuous-time rates of convergence into discrete time, with the error controlled by a backwards error analysis. Finally, we also show how to formulate lower bounds ala Nemirovskii in continuous time.  
 
-**Bio:** Adrian Lewis received his B.A., M.A., and Ph.D. degrees from Cambridge University, U.K. After faculty positions at the University of Waterloo and Simon Fraser University in Canada, he joined Cornell University in 2004 as a Professor in the School of Operations Research and Information Engineering, where he completed a three-year term as Director in 2013. His research concerns nonsmooth optimization and variational analysis. He has authored nearly 100 refereed publications and a book, and he is Co-Editor of Mathematical Programming. He received the 1995 Aisenstadt Prize, the 2003 Lagrange Prize, and a 2005 Outstanding Paper Prize from SIAM, and he is a SIAM Fellow. He was an invited section speaker at the 2014 International Congress of Mathematicians in Seoul.
+Joint work with Michael Muehlebach, Guilherme Franca and Rene Vidal.
+
+**Bio:**  Michael I. Jordan is the Pehong Chen Distinguished Professor in the Department of Electrical Engineering and Computer Science and the Department of Statistics at the University of California, Berkeley. He received his Masters in Mathematics from Arizona State University,  and earned his PhD in Cognitive Science in 1985 from the University of  California, San Diego.  He was a professor at MIT from 1988 to 1998. His research interests bridge the computational, statistical, cognitive and biological sciences.  Prof. Jordan is a member of the National Academy of Sciences, a member of the National Academy of Engineering  and a member of the American Academy of Arts and Sciences.  He is a Fellow of the American Association for the Advancement of Science. He has been named a Neyman Lecturer and a Medallion Lecturer by the Institute of Mathematical Statistics.  He was a Plenary Lecturer at the International Congress of Mathematicians in 2018.  He received the IEEE John von Neumann Medal in 2020, the IJCAI Research Excellence Award in 2016, the David E. Rumelhart Prize in 2015 and the ACM/AAAI Allen Newell Award in 2009.  He is a Fellow of the AAAI, ACM, ASA, CSS, IEEE, IMS, ISBA and SIAM.
+
+In 2016, Professor Jordan was named the "most influential computer scientist" worldwide in an article in Science, based on rankings from the Semantic Scholar search engine.
 
 ## Upcoming Speakers
 
