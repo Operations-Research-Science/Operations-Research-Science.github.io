@@ -21,19 +21,26 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/jordan.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/kpotufe.jpg" /></p>
 
-##### **Next Speaker:** [**Michael I. Jordan**](https://people.eecs.berkeley.edu/~jordan/), UC Berkeley
-##### **Date/Time:** Tuesday, July 14th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/2675580202724956)
-##### **Title:** Optimization with Momentum: Dynamical, Variational, and Symplectic Perspectives
+##### **Next Speaker:** [**Samory Kpotufe**](http://www.columbia.edu/~skk2175/), Columbia University
+##### **Date/Time:** Tuesday, July 21st, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/2975077669258072)
+##### **Title:** Some Recent Insights on Transfer-Learning
 
-**Abstract:** We analyze momentum-based optimization algorithms from dynamical systems and Hamiltonian points of view.  We show that a continuous-time perspective provides insight into the role of geometry in determining the convergence rates of optimization algorithms.  We discuss a generalization of symplectic integration to dissipative Hamiltonian systems that allows us to translate continuous-time rates of convergence into discrete time, with the error controlled by a backwards error analysis. Finally, we also show how to formulate lower bounds ala Nemirovskii in continuous time.  
+**Abstract:** A common situation in Machine Learning is one where training data is not fully representative of a target population due to bias in the sampling mechanism or high costs in sampling the target population; in such situations, we aim to ’transfer’ relevant information from the training data (a.k.a. source data) to the target application. How much information is in the source data? How much target data should we collect if any? These are all practical questions that depend crucially on 'how far' the source domain is from the target. However, how to properly measure 'distance' between source and target domains remains largely unclear.
 
-Joint work with Michael Muehlebach, Guilherme Franca and Rene Vidal.
+In this talk we will argue that much of the traditional notions of 'distance' (e.g. KL-divergence, extensions of TV such as D_A discrepancy, density-ratios, Wasserstein distance) can yield an over-pessimistic picture of transferability. Instead, we show that some new notions of 'relative dimension' between source and target (which we simply term 'transfer-exponents') capture a continuum from easy to hard transfer. Transfer-exponents uncover a rich set of situations where transfer is possible even at fast rates, encode relative benefits of source and target samples, and have interesting implications for related problems such as multi-task or multi-source learning.
 
-**Bio:**  Michael I. Jordan is the Pehong Chen Distinguished Professor in the Department of Electrical Engineering and Computer Science and the Department of Statistics at the University of California, Berkeley. He received his Masters in Mathematics from Arizona State University,  and earned his PhD in Cognitive Science in 1985 from the University of  California, San Diego.  He was a professor at MIT from 1988 to 1998. His research interests bridge the computational, statistical, cognitive and biological sciences.  Prof. Jordan is a member of the National Academy of Sciences, a member of the National Academy of Engineering  and a member of the American Academy of Arts and Sciences.  He is a Fellow of the American Association for the Advancement of Science. He has been named a Neyman Lecturer and a Medallion Lecturer by the Institute of Mathematical Statistics.  He was a Plenary Lecturer at the International Congress of Mathematicians in 2018.  He received the IEEE John von Neumann Medal in 2020, the IJCAI Research Excellence Award in 2016, the David E. Rumelhart Prize in 2015 and the ACM/AAAI Allen Newell Award in 2009.  He is a Fellow of the AAAI, ACM, ASA, CSS, IEEE, IMS, ISBA and SIAM.
+In particular, in the case of multi-source learning, we will discuss (if time permits) a strong dichotomy between minimax and adaptive rates: no adaptive procedure can achieve a rate better than single source rates, although minimax (oracle) procedures can.
 
-In 2016, Professor Jordan was named the "most influential computer scientist" worldwide in an article in Science, based on rankings from the Semantic Scholar search engine.
+The talk is based on earlier work with Guillaume Martinet, and ongoing work with Steve Hanneke.
+
+
+**Bio:** Professor Samory Kpotufe graduated in 2010 from Computer Science at the University of California, San Diego and was advised by Sanjoy Dasgupta. He then was a researcher at the Max Planck Institute for Intelligent Systems working in the department of Bernhard Schoelkopf in the learning theory group of Ulrike von Luxburg. Following this, he was an Assistant Research Professor at the Toyota Technological Institute at Chicago. He then spent over 4 years at ORFE, Princeton University as Assistant Professor.
+
+Professor Kpotufe's work is in machine learning, with an emphasis on nonparametric methods and high-dimensional statistics. Generally, he is interested in understanding the inherent difficulty of high-dimensional problems, under practical constraints from real-world application domains. The nonparametric setting is attractive in that it captures scenarios where we have little domain knowledge, which is important as data sciences reach into a diverse range of applications.
+
+His main practical aim is to design adaptive procedures, i.e., practical procedures that can self-tune to unknown structure in data (e.g., manifold, sparsity, clusters), while at the same time meeting the various constraints (e.g., time, space, labeling cost) of modern applications.
 
 ## Upcoming Speakers
 
