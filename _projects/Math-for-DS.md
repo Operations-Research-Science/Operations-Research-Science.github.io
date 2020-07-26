@@ -21,26 +21,15 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/kpotufe.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/tchetgen.jpg" /></p>
 
-##### **Next Speaker:** [**Samory Kpotufe**](http://www.columbia.edu/~skk2175/), Columbia University
-##### **Date/Time:** Tuesday, July 21st, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/2975077669258072)
-##### **Title:** Some Recent Insights on Transfer-Learning
+##### **Next Speaker:** [**Eric J. Tchetgen Tchetgen**](https://statistics.wharton.upenn.edu/profile/ett/), The Wharton School, UPenn
+##### **Date/Time:** Tuesday, July 28st, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/983480592111310)
+##### **Title:** Selective Machine Learning of Doubly Robust Functionals
 
-**Abstract:** A common situation in Machine Learning is one where training data is not fully representative of a target population due to bias in the sampling mechanism or high costs in sampling the target population; in such situations, we aim to ’transfer’ relevant information from the training data (a.k.a. source data) to the target application. How much information is in the source data? How much target data should we collect if any? These are all practical questions that depend crucially on 'how far' the source domain is from the target. However, how to properly measure 'distance' between source and target domains remains largely unclear.
+**Abstract:** While model selection is a well-studied topic in parametric and nonparametric regression or density estimation, selection of possibly high-dimensional nuisance parameters in semiparametric problems is far less developed. In this paper, we propose a selective machine learning framework for making inferences about a finite-dimensional functional defined on a semiparametric model, when the latter admits a doubly robust estimating function and several machine learning algorithms are available for estimating nuisance parameters. We introduce two new selection criteria for bias reduction in estimating the functional of interest, each based on a novel definition of pseudo-risk for the functional that embodies this double robustness property and thus is used to select the pair of learners that is nearest to fulfilling this property. We establish an oracle property for a multi-fold cross-validation version of the new selection criteria which states that our empirical criteria perform nearly as well as an oracle with a priori knowledge of the pseudo-risk for each pair of candidate learners. We also describe a smooth approximation to the selection criteria which allows for valid post-selection inference. Finally, we apply the approach to model selection of a semiparametric estimator of average treatment effect given an ensemble of candidate machine learners to account for confounding in an observational study. This joint work with Yifan Cui.
 
-In this talk we will argue that much of the traditional notions of 'distance' (e.g. KL-divergence, extensions of TV such as D_A discrepancy, density-ratios, Wasserstein distance) can yield an over-pessimistic picture of transferability. Instead, we show that some new notions of 'relative dimension' between source and target (which we simply term 'transfer-exponents') capture a continuum from easy to hard transfer. Transfer-exponents uncover a rich set of situations where transfer is possible even at fast rates, encode relative benefits of source and target samples, and have interesting implications for related problems such as multi-task or multi-source learning.
-
-In particular, in the case of multi-source learning, we will discuss (if time permits) a strong dichotomy between minimax and adaptive rates: no adaptive procedure can achieve a rate better than single source rates, although minimax (oracle) procedures can.
-
-The talk is based on earlier work with Guillaume Martinet, and ongoing work with Steve Hanneke.
-
-
-**Bio:** Professor Samory Kpotufe graduated in 2010 from Computer Science at the University of California, San Diego and was advised by Sanjoy Dasgupta. He then was a researcher at the Max Planck Institute for Intelligent Systems working in the department of Bernhard Schoelkopf in the learning theory group of Ulrike von Luxburg. Following this, he was an Assistant Research Professor at the Toyota Technological Institute at Chicago. He then spent over 4 years at ORFE, Princeton University as Assistant Professor.
-
-Professor Kpotufe's work is in machine learning, with an emphasis on nonparametric methods and high-dimensional statistics. Generally, he is interested in understanding the inherent difficulty of high-dimensional problems, under practical constraints from real-world application domains. The nonparametric setting is attractive in that it captures scenarios where we have little domain knowledge, which is important as data sciences reach into a diverse range of applications.
-
-His main practical aim is to design adaptive procedures, i.e., practical procedures that can self-tune to unknown structure in data (e.g., manifold, sparsity, clusters), while at the same time meeting the various constraints (e.g., time, space, labeling cost) of modern applications.
+**Bio:** Professor Eric J. Tchetgen Tchetgen is the Luddy Family President’s Distinguished Professor of Statsitics at Wharton School of Business. His primary area of interest is in semi-parametric efficiency theory with application to causal inference, missing data problems, statistical genetics and mixed model theory. In general, I work on the development of statistical and epidemiologic methods that make efficient use of the information in data collected by scientific investigators, while avoiding unnecessary assumptions about the underlying data generating mechanism.
 
 ## Upcoming Speakers
 
