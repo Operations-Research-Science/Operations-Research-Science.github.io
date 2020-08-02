@@ -21,15 +21,15 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/tchetgen.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/urschel.jpg" /></p>
 
-##### **Next Speaker:** [**Eric J. Tchetgen Tchetgen**](https://statistics.wharton.upenn.edu/profile/ett/), The Wharton School, UPenn
-##### **Date/Time:** Tuesday, July 28st, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/983480592111310)
-##### **Title:** Selective Machine Learning of Doubly Robust Functionals
+##### **Next Speaker:** [**John Urschel**](https://math.mit.edu/~urschel/), MIT
+##### **Date/Time:** Tuesday, August 4th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/4620087834675517)
+##### **Title:** Stress Minimization for Low-Diameter Graphs
 
-**Abstract:** While model selection is a well-studied topic in parametric and nonparametric regression or density estimation, selection of possibly high-dimensional nuisance parameters in semiparametric problems is far less developed. In this paper, we propose a selective machine learning framework for making inferences about a finite-dimensional functional defined on a semiparametric model, when the latter admits a doubly robust estimating function and several machine learning algorithms are available for estimating nuisance parameters. We introduce two new selection criteria for bias reduction in estimating the functional of interest, each based on a novel definition of pseudo-risk for the functional that embodies this double robustness property and thus is used to select the pair of learners that is nearest to fulfilling this property. We establish an oracle property for a multi-fold cross-validation version of the new selection criteria which states that our empirical criteria perform nearly as well as an oracle with a priori knowledge of the pseudo-risk for each pair of candidate learners. We also describe a smooth approximation to the selection criteria which allows for valid post-selection inference. Finally, we apply the approach to model selection of a semiparametric estimator of average treatment effect given an ensemble of candidate machine learners to account for confounding in an observational study. This joint work with Yifan Cui.
+**Abstract:**  Stress Majorization is a popular tool for visualizing high dimensional data and large networks. There exists a number of different heuristics to approximately minimize the stress of a graph, most notably the SMACOF algorithm and the Kamada-Kawai algorithm. In this talk we investigate the optimization problem in question, produce algorithmic lower bounds, and provide a polynomial time approximation scheme for low diameter graphs.
 
-**Bio:** Professor Eric J. Tchetgen Tchetgen is the Luddy Family President’s Distinguished Professor of Statsitics at Wharton School of Business. His primary area of interest is in semi-parametric efficiency theory with application to causal inference, missing data problems, statistical genetics and mixed model theory. In general, I work on the development of statistical and epidemiologic methods that make efficient use of the information in data collected by scientific investigators, while avoiding unnecessary assumptions about the underlying data generating mechanism.
+**Bio:**
 
 ## Upcoming Speakers
 
