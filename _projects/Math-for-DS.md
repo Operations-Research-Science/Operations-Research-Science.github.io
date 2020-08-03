@@ -29,7 +29,9 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 **Abstract:**  Stress Majorization is a popular tool for visualizing high dimensional data and large networks. There exists a number of different heuristics to approximately minimize the stress of a graph, most notably the SMACOF algorithm and the Kamada-Kawai algorithm. In this talk we investigate the optimization problem in question, produce algorithmic lower bounds, and provide a polynomial time approximation scheme for low diameter graphs.
 
-**Bio:**
+**Bio:** John Cameron Urschel (born June 24, 1991) is a Canadian-American mathematician and retired professional American football guard and center. He played college football at Penn State and was drafted by the Baltimore Ravens in the fifth round of the 2014 NFL Draft. Urschel played his entire NFL career with Baltimore before announcing his retirement on July 27, 2017, at 26 years old.
+
+Urschel has bachelor's and master's degrees in mathematics from Penn State and is pursuing a Ph.D. in mathematics from MIT. He has published peer-reviewed articles in mathematics. He is an advanced stats columnist for The Players' Tribune.
 
 ## Upcoming Speakers
 
