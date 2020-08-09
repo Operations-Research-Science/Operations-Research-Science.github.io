@@ -21,17 +21,17 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/urschel.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/jordan.jpg" /></p>
 
-##### **Next Speaker:** [**John Urschel**](https://math.mit.edu/~urschel/), MIT
-##### **Date/Time:** Tuesday, August 4th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/4620087834675517)
-##### **Title:** Stress Minimization for Low-Diameter Graphs
+##### **Next Speaker:** [**Michael I. Jordan**](https://people.eecs.berkeley.edu/~jordan/), UC Berkeley
+##### **Date/Time:** Tuesday, August 11th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/6192769890096807)
+##### **Title:** Optimization with Momentum: Dynamical, Variational, and Symplectic Perspectives
 
-**Abstract:**  Stress Majorization is a popular tool for visualizing high dimensional data and large networks. There exists a number of different heuristics to approximately minimize the stress of a graph, most notably the SMACOF algorithm and the Kamada-Kawai algorithm. In this talk we investigate the optimization problem in question, produce algorithmic lower bounds, and provide a polynomial time approximation scheme for low diameter graphs.
+**Abstract:** We analyze momentum-based optimization algorithms from dynamical systems and Hamiltonian points of view.  We show that a continuous-time perspective provides insight into the role of geometry in determining the convergence rates of optimization algorithms.  We discuss a generalization of symplectic integration to dissipative Hamiltonian systems that allows us to translate continuous-time rates of convergence into discrete time, with the error controlled by a backwards error analysis. Finally, we also show how to formulate lower bounds ala Nemirovskii in continuous time.  
 
-**Bio:** John Cameron Urschel (born June 24, 1991) is a Canadian-American mathematician and retired professional American football guard and center. He played college football at Penn State and was drafted by the Baltimore Ravens in the fifth round of the 2014 NFL Draft. Urschel played his entire NFL career with Baltimore before announcing his retirement on July 27, 2017, at 26 years old.
+**Bio:** Michael I. Jordan is the Pehong Chen Distinguished Professor in the Department of Electrical Engineering and Computer Science and the Department of Statistics at the University of California, Berkeley. He received his Masters in Mathematics from Arizona State University,  and earned his PhD in Cognitive Science in 1985 from the University of  California, San Diego.  He was a professor at MIT from 1988 to 1998. His research interests bridge the computational, statistical, cognitive and biological sciences.  Prof. Jordan is a member of the National Academy of Sciences, a member of the National Academy of Engineering and a member of the American Academy of Arts and Sciences.  He is a Fellow of the American Association for the Advancement of Science. He has been named a Neyman Lecturer and a Medallion Lecturer by the Institute of Mathematical Statistics.  He was a Plenary Lecturer at the International Congress of Mathematicians in 2018.  He received the IEEE John von Neumann Medal in 2020, the IJCAI Research Excellence Award in 2016, the David E. Rumelhart Prize in 2015 and the ACM/AAAI Allen Newell Award in 2009.  He is a Fellow of the AAAI, ACM, ASA, CSS, IEEE, IMS, ISBA and SIAM.
 
-Urschel has bachelor's and master's degrees in mathematics from Penn State and is pursuing a Ph.D. in mathematics from MIT. He has published peer-reviewed articles in mathematics. He is an advanced stats columnist for The Players' Tribune.
+In 2016, Professor Jordan was named the "most influential computer scientist" worldwide in an article in Science, based on rankings from the Semantic Scholar search engine.
 
 ## Upcoming Speakers
 
