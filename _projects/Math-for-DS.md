@@ -21,17 +21,19 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/jordan.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/devavrat.jpg" /></p>
 
-##### **Next Speaker:** [**Michael I. Jordan**](https://people.eecs.berkeley.edu/~jordan/), UC Berkeley
-##### **Date/Time:** Tuesday, August 11th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/6192769890096807)
-##### **Title:** Optimization with Momentum: Dynamical, Variational, and Symplectic Perspectives
+##### **Next Speaker:** [**Devavrat Shah**](https://devavrat.mit.edu/), MIT
+##### **Date/Time:** Tuesday, August 18th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/638840553410875)
+##### **Title:** Synthetic Interventions
 
-**Abstract:** We analyze momentum-based optimization algorithms from dynamical systems and Hamiltonian points of view.  We show that a continuous-time perspective provides insight into the role of geometry in determining the convergence rates of optimization algorithms.  We discuss a generalization of symplectic integration to dissipative Hamiltonian systems that allows us to translate continuous-time rates of convergence into discrete time, with the error controlled by a backwards error analysis. Finally, we also show how to formulate lower bounds ala Nemirovskii in continuous time.  
+**Abstract:** As we face the resurgence of COVID-19 pandemic in the United States, a pressing question is facing us: shall we shut down the economy again? or can we tame the pandemic with effective policies while letting the economy remain (partially) open? Towards that, we first need to understand if shutting down the economy helped in the first place. And if it did, is it possible to achieve similar gains while partially opening up the economy? And if so, how does that translate into public health policy?
 
-**Bio:** Michael I. Jordan is the Pehong Chen Distinguished Professor in the Department of Electrical Engineering and Computer Science and the Department of Statistics at the University of California, Berkeley. He received his Masters in Mathematics from Arizona State University,  and earned his PhD in Cognitive Science in 1985 from the University of  California, San Diego.  He was a professor at MIT from 1988 to 1998. His research interests bridge the computational, statistical, cognitive and biological sciences.  Prof. Jordan is a member of the National Academy of Sciences, a member of the National Academy of Engineering and a member of the American Academy of Arts and Sciences.  He is a Fellow of the American Association for the Advancement of Science. He has been named a Neyman Lecturer and a Medallion Lecturer by the Institute of Mathematical Statistics.  He was a Plenary Lecturer at the International Congress of Mathematicians in 2018.  He received the IEEE John von Neumann Medal in 2020, the IJCAI Research Excellence Award in 2016, the David E. Rumelhart Prize in 2015 and the ACM/AAAI Allen Newell Award in 2009.  He is a Fellow of the AAAI, ACM, ASA, CSS, IEEE, IMS, ISBA and SIAM.
+To address such ’what if scenario analysis’ questions, we propose a method of Synthetic Interventions (SI). It enables counterfactual estimates for all interventions of interest using observed data only. SI generalizes the classical Synthetic Controls (SC) method for causal inference using observational studies — it has similar data requirements as SC, but enables counterfactual estimates with multiple interventions, rather than single intervention as in SC. The SI method comes with a data-driven test to evaluate its applicability. In addition to explaining its utility in answering above mentioned questions, time permitting, we shall discuss applications in the context of policy design in the developing countries, online A/B testing and drug discovery.   
 
-In 2016, Professor Jordan was named the "most influential computer scientist" worldwide in an article in Science, based on rankings from the Semantic Scholar search engine.
+Based on joint works with Anish Agarwal, Abdullah Aalomar, Romain Cosson, Arnab Sarkar, Dennis Shen and Cindy Yang (all at MIT).
+
+**Bio:** Devavrat Shah is a Professor with the department of Electrical Engineering and Computer Science at MIT. He is the founding director of Statistics and Data Science Center at MIT. He is a member of the Institute for Data, Systems and Society, LIDS, CSAIL and ORC at MIT. His current research interests include algorithms for machine learning, causal inference and social data processing. He has received paper awards from INFORMS Applied Probability Society, NeurIPS, ACM Sigmetrics and IEEE Infocom. He has received Erlang Prize from INFORMS Applied Probability Society and Rising Star Award from ACM Sigmetrics. He is a distinguished young alumni of his alma mater IIT Bombay. In 2013, he founded the machine learning start-up Celect, Inc. which helps retailers with optimizing inventory by accurate demand forecasting. In August 2019, Celect, Inc. was acquired by Nike, Inc.
 
 ## Upcoming Speakers
 
