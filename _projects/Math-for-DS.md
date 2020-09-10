@@ -21,21 +21,16 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/robins.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/jovanovic.jpg" /></p>
 
-##### **Next Speaker:** [**James Robins**](https://www.hsph.harvard.edu/james-robins/), Harvard University
-##### **Date/Time:** Tuesday, September 1st, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/435611574019695)
-##### **Title:** On Nearly Assumption-Free Tests of Nominal Confidence Interval Coverage for Causal Parameters Estimated by Machine Learning
+##### **Next Speaker:** [**Mihailo Jovanovic**](https://viterbi-web.usc.edu/~mihailo/), University of Southern California
+##### **Date/Time:** Friday, September 11th, 3pm EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924) [**[Facebook Link]**](https://www.facebook.com/events/435611574019695)
+##### **Title:** Convergence and Sample Complexity of Gradient Methods for the Model-Free Linear Quadratic Regulator Problem
 
-**Abstract:** For many causal effect parameters of interest, doubly robust machine learning (DRML) estimators are the state-of-the-art, incorporating the good prediction performance of machine learning; the decreased bias of doubly robust estimators; and the analytic tractability and bias reduction of sample splitting with cross fitting. Nonetheless, even in the absence of confounding by unmeasured factors, the nominal Wald confidence interval may still undercover even in large samples, because the bias may be of the same or even larger order than its standard error.
+**Abstract:** Model-free reinforcement learning attempts to find an optimal control action for an unknown dynamical system by directly searching over the parameter space of controllers. The convergence behavior and statistical properties of these approaches are often poorly understood because of the nonconvex nature of the underlying optimization problems and the lack of exact gradient computation. In this talk, we discuss performance and efficiency of such methods by focusing on the standard infinite-horizon linear quadratic regulator  problem for continuous-time systems with unknown state-space parameters. We establish exponential stability for the ordinary differential equation (ODE) that governs the gradient-flow dynamics over the set of stabilizing feedback gains and show that a similar result holds for the gradient descent method that arises from the forward Euler discretization of the corresponding ODE. We also provide theoretical bounds on the convergence rate and sample complexity of the random search method with two-point gradient estimates. We prove that the required simulation time for achieving epsilon-accuracy in the model-free setup and the total number of function evaluations both scale as log(1/epsilon).
 
-In this paper, we introduce essentially assumption-free tests that (i) can falsify the null hypothesis that the bias is of smaller order than its standard error, (ii) can provide a upper confidence bound on the true coverage of the Wald interval, and (iii) are valid under the null under no smoothness/sparsity assumptions on the nuisance parameters. The tests, which we refer to as Assumption Free Empirical Coverage Tests (AFECTs), are based on a U-statistic that estimates part of the bias.
+**Bio:** Mihailo R. Jovanovic is a professor in the Ming Hsieh Department of Electrical and Computer Engineering and the founding director of the Center for Systems and Control at the University of Southern California. He was a faculty member in the Department of Electrical and Computer Engineering at the University of Minnesota, Minneapolis, from December 2004 until January 2017, and has held visiting positions with Stanford University and the Institute for Mathematics and its Applications. His current research focuses on large-scale and distributed optimization, design of controller architectures, dynamics and control of fluid flows, and fundamental limitations in the control of large networks of dynamical systems. He serves as an Associate Editor of the IEEE Transactions on Control of Network Systems and had served as a Guest Editor (of the Special Issue on Analysis, Control and Optimization of Energy System Networks in the IEEE Transactions on Control of Network Systems), the Chair of the APS External Affairs Committee, a Program Vice-Chair of the 55th IEEE Conference on Decision and Control, an Associate Editor of the SIAM Journal on Control and Optimization, and an Associate Editor of the IEEE Control Systems Society Conference Editorial Board. Prof. Jovanovic is a fellow of APS and IEEE. He received a CAREER Award from the National Science Foundation in 2007, the George S. Axelby Outstanding Paper Award from the IEEE Control Systems Society in 2013, and the Distinguished Alumnus Award from UC Santa Barbara in 2014.
 
-Our claims need to be tempered in several important ways. First no test, including ours, of the null hypothesis that the ratio of the bias to its standard error is smaller than some threshold can be consistent [with-out additional assumptions (e.g. smoothness or sparsity) that may be incorrect]. Second the above claims only apply to certain parameters in a particular class. For most of the others, our results are unavoidably less sharp.
-
-**Bio:** James M. Robins is an epidemiologist and biostatistician best known for advancing methods for drawing causal inferences from complex observational studies and randomized trials, particularly those in which the treatment varies with time. He is the 2013 recipient of the Nathan Mantel Award for lifetime achievement in statistics and epidemiology.
-
-He graduated in medicine from Washington University in St. Louis in 1976. He is currently Mitchell L. and Robin LaFoley Dong Professor of Epidemiology at Harvard T.H. Chan School of Public Health. He has published over 100 papers in academic journals and is an ISI highly cited researcher.
 
 ## Upcoming Speakers
 
@@ -64,5 +59,7 @@ If you have any questions, please feel free to email the organizers.
 [![Alt text](/images/news/MathDS/NISS.png) National Institute of Statistical Sciences](https://www.niss.org/)
 
 [![Alt text](/images/news/MathDS/2sigma.png) Two Sigma](https://www.twosigma.com/)
+
+[![Alt text](/images/news/MathDS/synced.png) Synced](https://www.jiqizhixin.com//)
 
 [![Alt text](/images/news/MathDS/ORAI.png) ORAI China](/)
