@@ -21,17 +21,21 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/jimdai.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/meyn.png" /></p>
 
-##### **Next Speaker:** [**Jim Dai**](https://people.orie.cornell.edu/jdai/), Cornell University
-##### **Date/Time:** Friday, September 25th, 11am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
-##### **Title:** Queueing Network Controls via Deep Reinforcement Learning
+##### **Next Speaker:** [**Sean Meyn**](http://www.meyn.ece.ufl.edu/), University of Florida
+##### **Date/Time:** Friday, October 16th, 12am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
+##### **Title:** Quasi Stochastic Approximation with Applications to Gradient Free Optimization and Reinforcement Learning
 
-**Abstract:** Conservative update methods such as Trust Region policy optimization and Proximal policy optimization (PPO) have become the dominant reinforcement learning algorithms because of their ease of implementation and good practical performance. A conventional setup for notoriously difficult queueing network control problems is a Markov decision problem (MDP) that has three features: infinite state space, unbounded costs, and long-run average cost objective. We extend the theoretical framework of these conservative update methods for such MDP problems. The resulting PPO algorithm is tested on a parallel-server system and large-size multiclass queueing networks. The algorithm consistently generates control policies that outperform state-of-art heuristics in literature in a variety of load conditions from light to heavy traffic. These policies are demonstrated to be near-optimal when the optimal policy can be computed.  A key to the successes of our PPO algorithm is the use of three variance reduction techniques in estimating the relative value function via sampling. First, we use a discounted relative value function as an approximation of the relative value function. Second, we propose regenerative simulation to estimate the discounted relative value function. Finally, we incorporate the approximating martingale-process method into the regenerative estimator. This is joint work with Mark Gluzman at Cornell.
+**Abstract:** This lecture surveys general theory of quasi stochastic approximation, in which random probing is replaced with deterministic signals such as sinusoids. The setting has great pedagogical value since it is relatively easy to obtain proofs of convergence, and bounds on rate of convergence. The practical implications are far more profound:  it is easy to obtain 1/t rate of convergence in this deterministic setting,  while the best rate of convergence is much slower when using SA. The talk will give a high level survey of the general theory, and how it can be applied to optimization and control.
 
-**Bio:** Jim Dai is  the Leon C. Welch Professor of Engineering in the School of Operations Research and Information Engineering at Cornell University. He is also a Presidential Chair Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. Prior joining Cornell, he held the Chandler Family Chair of Industrial and Systems Engineering at Georgia Institute of Technology, where he was a faculty member from 1990 to 2012. Dai studies applied probability models for efficient resource allocations in stochastic processing networks that model a variety of engineered and service systems including customer contact centers, data centers, hospital patient flow, and ridesharing networks.
+**Bio:** Sean Meyn received the B.A. degree in mathematics from the University of California, Los Angeles (UCLA), in 1982 and the Ph.D. degree in electrical engineering from McGill University, Canada, in 1987 (with Prof. P. Caines, McGill University).  He is now Professor and Robert C. Pittman Eminent Scholar Chair in the Department of Electrical and Computer Engineering at the University of Florida,  the director of the Laboratory for Cognition & Control, and director of the Florida Institute for Sustainable Energy. His academic research interests include theory and applications of decision and control, stochastic processes, and optimization.  He has received many awards for his research on these topics, and is a fellow of the IEEE.
 
- Dai received his BA and MA in mathematics from Nanjing University and his PhD in mathematics from Stanford. He received the Erlang Prize in 1998 from the Applied Probability Society (APS) of INFORMS. He also received two Best Publication Awards from APS, one in 1997 and one in 2017. In 2018, he received The Achievement Award from  ACM SIGMETRICS. Dai served as the Editor-In-Chief of Mathematics of Operations Research from 2012 to 2018. He is a fellow of INFORMS and the Institute for Mathematical Statistics.
+He has held visiting positions at universities all over the world, including the Indian Institute of Science, Bangalore during 1997-1998 where he was a Fulbright Research Scholar. During his latest sabbatical during the 2006-2007 academic year he was a visiting professor at MIT and United Technologies Research Center (UTRC).
+
+His award-winning 1993 monograph with Richard Tweedie, Markov Chains and Stochastic Stability, has been cited thousands of times in journals from a range of fields. The latest version is published in the Cambridge Mathematical Library.
+
+For the past ten years his applied research has focused on engineering, markets, and policy in energy systems.  He regularly engages in industry, government, and academic panels on these topics, and hosts an annual workshop at the University of Florida.
 
 
 ## Upcoming Speakers
