@@ -21,15 +21,21 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/murphy.jpg" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/meyn.png" /></p>
 
-##### **Next Speaker:** [**Susan Murphy**](http://people.seas.harvard.edu/~samurphy/), Harvard University
-##### **Date/Time:** Friday, October 9th, 11am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
-##### **Title:** Off-Policy Estimation of Long-Term Average Outcomes with Applications to Mobile Health
+##### **Next Speaker:** [**Sean Meyn**](http://www.meyn.ece.ufl.edu/), University of Florida
+##### **Date/Time:** Friday, October 16th, 12am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
+##### **Title:** Quasi Stochastic Approximation with Applications to Gradient Free Optimization and Reinforcement Learning
 
-**Abstract:** Due to the recent advancements in wearables and sensing technology, health scientists are increasingly developing mobile health (mHealth) interventions.  The interventions include treatments, delivered via mobile devices, that are designed to provide in-the-moment support, that is, have the greatest impact on a proximal outcome such as near-time stress or physical activity.  Frequently expert-derived treatment policies are used; these are decision rules that map an individual's current state (e.g., individual's past behaviors as well as current observations of time, location, social activity, stress and urges to smoke) to a particular treatment at each of many time points. Many mHealth interventions are designed for long-term use in chronic disease management.    An important first step toward developing data-based, effective mHealth interventions is to properly measure the long-term performance of the treatment policies. In this presentation, we describe an approach for conducting inference about the performance of one or more such policies using historical data collected under a possibly different policy. Our measure of performance is the average of proximal outcomes over a long time period should the particular treatment policy be followed. We provide an estimator as well as confidence intervals. This work is motivated by HeartSteps, a mobile health physical activity intervention.
+**Abstract:** This lecture surveys general theory of quasi stochastic approximation, in which random probing is replaced with deterministic signals such as sinusoids. The setting has great pedagogical value since it is relatively easy to obtain proofs of convergence, and bounds on rate of convergence. The practical implications are far more profound:  it is easy to obtain 1/t rate of convergence in this deterministic setting,  while the best rate of convergence is much slower when using SA. The talk will give a high level survey of the general theory, and how it can be applied to optimization and control.
 
-**Bio:** Susan A. Murphy is Professor of Statistics and Computer Science, and a Radcliffe Alumnae Professor at the Radcliffe Institute, all at Harvard University. Her research focuses on improving sequential, individualized, decision making in health, in particular on clinical trial design and data analysis to inform the development of just-in-time adaptive interventions in mobile health. She graduated from Louisiana State University with a degree in mathematics and earned her PhD in Statistics at the University of North Carolina, Chapel Hill in 1989. Susan is a Fellow of the Institute of Mathematical Statistics, a Fellow of the College on Problems in Drug Dependence, a former editor of the Annals of Statistics, a member of the U.S. National Academy of Sciences, the U.S. National Academy of Medicine and a 2013 MacArthur Fellow.
+**Bio:** Sean Meyn received the B.A. degree in mathematics from the University of California, Los Angeles (UCLA), in 1982 and the Ph.D. degree in electrical engineering from McGill University, Canada, in 1987 (with Prof. P. Caines, McGill University).  He is now Professor and Robert C. Pittman Eminent Scholar Chair in the Department of Electrical and Computer Engineering at the University of Florida,  the director of the Laboratory for Cognition & Control, and director of the Florida Institute for Sustainable Energy. His academic research interests include theory and applications of decision and control, stochastic processes, and optimization.  He has received many awards for his research on these topics, and is a fellow of the IEEE.
+
+He has held visiting positions at universities all over the world, including the Indian Institute of Science, Bangalore during 1997-1998 where he was a Fulbright Research Scholar. During his latest sabbatical during the 2006-2007 academic year he was a visiting professor at MIT and United Technologies Research Center (UTRC).
+
+His award-winning 1993 monograph with Richard Tweedie, Markov Chains and Stochastic Stability, has been cited thousands of times in journals from a range of fields. The latest version is published in the Cambridge Mathematical Library.
+
+For the past ten years his applied research has focused on engineering, markets, and policy in energy systems.  He regularly engages in industry, government, and academic panels on these topics, and hosts an annual workshop at the University of Florida.
 
 
 ## Upcoming Speakers
