@@ -21,21 +21,17 @@ To ask the speaker a question, please use the Q&A function in Zoom to type your 
 
 ## Next speaker
 
- <p align="center"><img width="20%" src="/images/news/MathDS/meyn.png" /></p>
+ <p align="center"><img width="20%" src="/images/news/MathDS/simichi.jpg" /></p>
 
-##### **Next Speaker:** [**Sean Meyn**](http://www.meyn.ece.ufl.edu/), University of Florida
-##### **Date/Time:** Friday, October 16th, 12am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
-##### **Title:** Quasi Stochastic Approximation with Applications to Gradient Free Optimization and Reinforcement Learning
+##### **Next Speaker:** [**David Simichi-Levi**](https://dsl.mit.edu/), MIT
+##### **Date/Time:** Friday, November 6th, 11am EDT [**[Zoom Link]**](https://psu.zoom.us/j/95512102924)
+##### **Title:** Statistical Learning in Operations: The Interplay between Online and Offline learning
 
-**Abstract:** This lecture surveys general theory of quasi stochastic approximation, in which random probing is replaced with deterministic signals such as sinusoids. The setting has great pedagogical value since it is relatively easy to obtain proofs of convergence, and bounds on rate of convergence. The practical implications are far more profound:  it is easy to obtain 1/t rate of convergence in this deterministic setting,  while the best rate of convergence is much slower when using SA. The talk will give a high level survey of the general theory, and how it can be applied to optimization and control.
+**Abstract:** Traditionally, statistical learning is focused on either (i) online learning where data is generated online according to some unknown model; or (ii) offline learning where the entire data is available at the beginning of the process. In this talk we show that combining both approaches can accelerate learning. First, we show how difficult online learning problems can be reduced to well-understood offline regression problems. Second, we show the impact of pre-existing offline data on online learning and characterize conditions under which offline data helps (does not help) improve online learning. We demonstrate the impact of our work in the context of multiclass classification, product recommendation and price optimization.
 
-**Bio:** Sean Meyn received the B.A. degree in mathematics from the University of California, Los Angeles (UCLA), in 1982 and the Ph.D. degree in electrical engineering from McGill University, Canada, in 1987 (with Prof. P. Caines, McGill University).  He is now Professor and Robert C. Pittman Eminent Scholar Chair in the Department of Electrical and Computer Engineering at the University of Florida,  the director of the Laboratory for Cognition & Control, and director of the Florida Institute for Sustainable Energy. His academic research interests include theory and applications of decision and control, stochastic processes, and optimization.  He has received many awards for his research on these topics, and is a fellow of the IEEE.
+**Bio:** David Simchi-Levi is a Professor of Engineering Systems at MIT and serves as the head of the MIT Data Science Lab. He is considered one of the premier thought leaders in supply chain management and business analytics. His Ph.D. students have accepted faculty positions in leading academic institutes including U. of California Berkeley, Carnegie Mellon U., Columbia U., Duke U., Georgia Tech, Harvard U., U. of Illinois Urbana-Champaign, U. of Michigan, Purdue U. and Virginia Tech. Professor Simchi-Levi is the current Editor-in-Chief of Management Science, one of the two flagship journals of INFORMS. He served as the Editor-in-Chief for Operations Research (2006-2012), the other flagship journal of INFORMS and for Naval Research Logistics (2003-2005). He is an INFORMS Fellow, MSOM Distinguished Fellow and the recipient of the 2014 INFORMS Daniel H. Wagner Prize for Excellence in Operations Research Practice; 2014 INFORMS Revenue Management and Pricing Section Practice Award; 2009 INFORMS Revenue Management and Pricing Section Prize; Ford 2015 Engineering Excellence Award and 2020 INFORMS Impact Prize.
 
-He has held visiting positions at universities all over the world, including the Indian Institute of Science, Bangalore during 1997-1998 where he was a Fulbright Research Scholar. During his latest sabbatical during the 2006-2007 academic year he was a visiting professor at MIT and United Technologies Research Center (UTRC).
-
-His award-winning 1993 monograph with Richard Tweedie, Markov Chains and Stochastic Stability, has been cited thousands of times in journals from a range of fields. The latest version is published in the Cambridge Mathematical Library.
-
-For the past ten years his applied research has focused on engineering, markets, and policy in energy systems.  He regularly engages in industry, government, and academic panels on these topics, and hosts an annual workshop at the University of Florida.
+He was the founder of LogicTools which provided software solutions and professional services for supply chain optimization. LogicTools became part of IBM in 2009. In 2012 he co-founded OPS Rules, an operations analytics consulting company. The company became part of Accenture in 2016. In 2014, he co-founded Opalytics, a cloud analytics platform company focusing on operations and supply chain intelligence. The company became part of the Accenture Applied Intelligence in 2018.
 
 
 ## Upcoming Speakers
